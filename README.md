@@ -24,6 +24,15 @@ Technologies
 -Logging (Log.d) – Debugging information during development.
 -View Binding / findViewById – Accessing UI components in Kotlin.
 
+Dependencies
+- Retrofit – For making network API calls.
+- Gson – For JSON parsing with Retrofit.
+- OkHttp – HTTP client used with Retrofit for network requests.
+- RecyclerView – For displaying lists of items in the Dashboard.
+- ConstraintLayout / LinearLayout – For UI layout management.
+- Kotlin Standard Library – Core Kotlin functionalities.
+
+
 Contact 
 Name : Sonam Sherpa
 Student ID : S8114791 
